@@ -5,6 +5,7 @@ const fib = (n) => {
 
 // O(2^n) time complexity
 // O(n) space complexity
+// height: n
 
 // Memoization
 
