@@ -33,7 +33,7 @@ const canSum2 = (targetSum, numbers, memo = {}) => {
 
 // m = target sum
 // n = array length
-// O(n*m) time complexity
+// O(n * m) time complexity
 // O(m) space complexity
 // height: m (subtract 1)
 
